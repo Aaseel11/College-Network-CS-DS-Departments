@@ -102,5 +102,5 @@ College-Network-CS-DS-Departments/
 
 Aseel Alanzi
 Computer Science Department, University of Hail
-GitHub: [github.com/Aaseel11](https://github.com/Aaseel11)
-LinkedIn: [linkedin.com/in/aseel-alanazi410](https://linkedin.com/in/aseel-alanazi410)
+GitHub: (https://github.com/Aaseel11)
+LinkedIn: (https://linkedin.com/in/aseel-alanazi410)
