@@ -84,14 +84,15 @@ This project successfully demonstrates the design and configuration of two indep
 # Repository Contents
 
 
+```
 College-Network-CS-DS-Departments/
 ├── README.md
 └── docs/
     ├── Network_Project_Report.docx          # Full project report
     ├── Network_Project_Presentation_1.pptx  # Project presentation slides
     └── projct ds,cs networkkwe.pkt                  # Cisco Packet Tracer file
-
-
+زز
+```
 # Tools Used
 
 - **Cisco Packet Tracer** — network design and simulation
