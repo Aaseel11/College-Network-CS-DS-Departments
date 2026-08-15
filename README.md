@@ -81,8 +81,7 @@ All required ping tests completed successfully with 0% packet loss, verifying th
 
 This project successfully demonstrates the design and configuration of two independent departmental networks connected through static routing, with functioning DNS resolution in each network. The topology reflects real-world network segmentation practices — separating departments into distinct subnets while maintaining full inter-department connectivity through a dedicated router link. All connectivity requirements (intra-network ping by name, inter-network ping by IP) were verified and passed successfully.
 
-# Repository Contents
-
+##  Repository Contents
 
 ```
 College-Network-CS-DS-Departments/
@@ -91,8 +90,8 @@ College-Network-CS-DS-Departments/
     ├── Network_Project_Report.docx          # Full project report
     ├── Network_Project_Presentation_1.pptx  # Project presentation slides
     └── projct ds,cs networkkwe.pkt                  # Cisco Packet Tracer file
-زز
 ```
+
 # Tools Used
 
 - **Cisco Packet Tracer** — network design and simulation
@@ -103,4 +102,5 @@ College-Network-CS-DS-Departments/
 Aseel Alanzi
 Computer Science Department, University of Hail
 GitHub: (https://github.com/Aaseel11)
+
 LinkedIn: (https://linkedin.com/in/aseel-alanazi410)
