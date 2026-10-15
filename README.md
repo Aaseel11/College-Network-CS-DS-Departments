@@ -99,7 +99,7 @@ College-Network-CS-DS-Departments/
 
 # Author
 
-Aseel Alanzi
+Aseel Alanazi
 
 Computer Science Department, University of Hail
 
